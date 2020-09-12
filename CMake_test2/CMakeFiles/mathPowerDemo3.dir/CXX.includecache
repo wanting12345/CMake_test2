@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+./menu/menu.h
+
+./student/student.h
+iostream
+-
+iomanip
+-
+string
+-
+cstdlib
+-
+fstream
+-
+string.h
+-
+
+/home/yevette/文档/git/CMake_test2/main.cpp
+student.h
+/home/yevette/文档/git/CMake_test2/student.h
+iostream
+-
+string
+-
+menu.h
+/home/yevette/文档/git/CMake_test2/menu.h
+

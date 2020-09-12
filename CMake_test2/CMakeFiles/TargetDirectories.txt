@@ -1,0 +1,9 @@
+/home/yevette/文档/git/CMake_test2/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/CMake_test2/CMakeFiles/test.dir
+/home/yevette/文档/git/CMake_test2/CMakeFiles/edit_cache.dir
+/home/yevette/文档/git/CMake_test2/menu/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/CMake_test2/menu/CMakeFiles/menu.dir
+/home/yevette/文档/git/CMake_test2/menu/CMakeFiles/edit_cache.dir
+/home/yevette/文档/git/CMake_test2/student/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/CMake_test2/student/CMakeFiles/student.dir
+/home/yevette/文档/git/CMake_test2/student/CMakeFiles/edit_cache.dir

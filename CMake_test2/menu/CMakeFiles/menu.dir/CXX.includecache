@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yevette/文档/git/CMake_test2/menu/menu.cpp
+menu.h
+/home/yevette/文档/git/CMake_test2/menu/menu.h
+iostream
+-
+iomanip
+-
+
+/home/yevette/文档/git/CMake_test2/menu/menu.h
+
